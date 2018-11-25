@@ -1,8 +1,10 @@
 # flutter_login
+入门flutter框架，使用flutter框架写的一个简单的登陆页面
 
-A new Flutter application.
+<center>
+ <img src="/images/ios.png" margin=20% width=30% />
+</center>
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+<center>
+ <img src="/images/android.png" margin=20% width=30% />
+</center>
